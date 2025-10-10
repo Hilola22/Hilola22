@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hilola  
-### 💻 Full-Stack Developer | JavaScript | TypeScript | React | Node.js  
+### 💻 Full-Stack Developer | JavaScript | TypeScript | React.js | Node.js  
 
 I’m a motivated and detail-oriented developer passionate about creating responsive, user-friendly, and data-driven web applications.  
 Currently focused on mastering modern web technologies and building real-world full-stack projects.
@@ -7,9 +7,9 @@ Currently focused on mastering modern web technologies and building real-world f
 ---
 ### 🛠️ Tech Stack  
 **Frontend:** HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Vercel, VS Code, Figma (basic), npm  
+**Backend:** Node.js, Nest.js, Express.js, RESTful APIs  
+**Database:** MongoDB, MySQL, Postgresql 
+**Tools:** Git, GitHub, Vercel, VS Code, Figma (basic), Docker, CI/CD
 
 ---
 
@@ -27,15 +27,6 @@ Developed a small e-commerce frontend with product listing, product details, and
 #### 🍞 [BakeMaster (Backend Project)](https://github.com/Hilola22/bake_master.git)  
 Developed a backend system for a bakery management application using Node.js and Express.js.  
 Implemented RESTful APIs for user authentication, product management, and order processing.  
-
-
----
-
-### 📈 GitHub Stats  
-
-![Hilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilola22&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilola22&layout=compact&theme=tokyonight)
-
 
 ---
 
