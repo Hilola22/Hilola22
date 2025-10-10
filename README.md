@@ -10,7 +10,7 @@ Currently focused on mastering modern web technologies and building real-world f
 **Frontend:** HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, RESTful APIs  
 **Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Vercel, Render, VS Code, Figma (basic), npm  
+**Tools:** Git, GitHub, Vercel, VS Code, Figma (basic), npm  
 
 ---
 
