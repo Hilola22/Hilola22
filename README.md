@@ -5,7 +5,6 @@ I’m a motivated and detail-oriented developer passionate about creating respon
 Currently focused on mastering modern web technologies and building real-world full-stack projects.
 
 ---
-
 ### 🛠️ Tech Stack  
 **Frontend:** HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, RESTful APIs  
