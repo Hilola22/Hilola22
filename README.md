@@ -25,7 +25,7 @@ Developed a small e-commerce frontend with product listing, product details, and
 **Live Demo:** [link](https://team-work-woad.vercel.app)
 
 #### 🍞 [BakeMaster (Backend Project)](https://github.com/Hilola22/bake_master.git)  
-Developed a backend system for a bakery management application using Node.js and Express.js.  
+Developed a backend system for a bakery management application using Nest.js and prisma and also postgresql.  
 Implemented RESTful APIs for user authentication, product management, and order processing.  
 
 ---
