@@ -41,8 +41,8 @@ Implemented RESTful APIs for user authentication, product management, and order 
 
 ### 📫 Connect with Me  
 - ✉️ Email: hilolaorazaliyeva2203@gmail.com 
-- 💼 LinkedIn: [https://www.linkedin.com/in/hilola-o%E2%80%98razaliyeva-459255342?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcMIjgqPDQCa4HE7qpCvYYQ%3D%3D](#)  
-- 🌐 Portfolio: [https://portfolio-eosin-alpha-17.vercel.app/](#)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hilola-o‘razaliyeva-459255342) 
+- 🌐 Portfolio: [My first portfolio from initial times](https://portfolio-eosin-alpha-17.vercel.app/)
 
 ---
 
