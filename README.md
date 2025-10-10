@@ -8,7 +8,7 @@ Currently focused on mastering modern web technologies and building real-world f
 ### 🛠️ Tech Stack  
 **Frontend:** HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Nest.js, Express.js, RESTful APIs  
-**Database:** MongoDB, MySQL, Postgresql 
+**Database:** MongoDB, MySQL, Postgresql   
 **Tools:** Git, GitHub, Vercel, VS Code, Figma (basic), Docker, CI/CD
 
 ---
