@@ -32,7 +32,7 @@ Implemented RESTful APIs for user authentication, product management, and order 
 
 ### 📫 Connect with Me  
 - ✉️ Email: hilolaorazaliyeva2203@gmail.com 
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hilola-o‘razaliyeva-459255342) 
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hilola-o-razaliyeva-459255342) 
 
 ---
 
